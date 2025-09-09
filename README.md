@@ -1,2 +1,3 @@
-# prog_405
-Programming 3 in class materials and homework
+# PROG 405 Repo
+Here you will find all of the in class examples, notes etc for this course
+
