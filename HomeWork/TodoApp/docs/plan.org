@@ -1,0 +1,31 @@
+#+title: Plan
+* Abstract
+Users have a problem keeping track of dependent tasks.
+** Definitions
+*** Task
+Discrete set of acceptance with a deadline
+*** Dependent Task
+A task that depends on one or more tasks
+*** Task State
+- TODO
+- In Progress
+- Done
+- Wont Do
+*** Task Outcomes
+- Done
+- Late
+- Failed
+- Ignored
+* Behaviors
+** Schedule a Task
+- [ ] Define Task Acceptance
+- [ ] Set dependents
+- [ ] Set Children
+- [ ] Set Due Date
+** Update A task
+- [ ] Set a single task state
+- [ ] update dependent tasks
+- [ ] verify state with parent dependents
+* Development Chores
+** Setup Project
+** Scaffold CI/CD
